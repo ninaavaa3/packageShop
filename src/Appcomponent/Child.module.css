@@ -1,0 +1,13 @@
+.child{
+flex: 1;
+border:2px solid rgb(179, 157, 171);
+height: 100rem;
+
+}
+.imgstyle{
+    width: 50px;
+    height: 50px;
+}
+.productname{
+    display: flex;
+}
